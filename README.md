@@ -15,4 +15,4 @@ TECNOLOGIAS UTILIZADAS
     CSS
     JavaScript
     
-# Autor do projeto e curso caio@pythonando.com.br ,https://pythonando.com.br
+
